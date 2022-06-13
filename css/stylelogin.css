@@ -1,0 +1,49 @@
+body{
+	background: url(../img/comand1.jpg)  no-repeat center top / cover;
+	
+}
+
+
+.container{
+     text-align:center;
+    
+    
+}
+
+.input{
+ 
+ height: 40px;
+ width: 400px;
+ background-color:rgb(0, 0, 0,0.65); 
+ border-radius: 10px 10px 10px 10px;
+ color: white;
+ 
+}
+
+.button{
+ 
+    height: 40px;
+    width: 200px;
+    background-color:rgb(0, 0, 0,0.65); 
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    
+   }
+
+p{
+    font-size:30px;
+	font-weight:bold;
+	text-align: center;
+    text-transform: uppercase;
+    color: white;    
+}
+.error{
+    font-size:20px;
+	font-weight:bold;
+	text-align: center;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+

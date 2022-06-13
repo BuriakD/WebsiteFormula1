@@ -1,0 +1,72 @@
+
+.ChatBox {
+    height: 500px;  
+    overflow: auto; 
+    border: 1px solid #ddddddd;
+    width: 700px;
+}
+.ChatBlock {
+    border: 1px
+     solid #dddddd; 
+     background: #f2f2f2;
+     padding: 10px;
+     color: #000000; 
+     margin: 10px;
+    }
+.ChatBlock span {
+    color: #828282; 
+    font-size: 10px;
+     display: block;
+    }
+.ChatMessage {
+    width: 450px; 
+    height: 45px; 
+    resize: none; 
+    padding: 5px;
+    margin: 10px;
+}
+input {
+    margin:10px;
+}
+.container1{
+	width: 700px;
+	margin:0 auto;
+}
+.container{
+	width: 930px;
+	margin:0 auto;
+}
+li {
+	float:left;
+	display: block;
+	margin-right:41px;
+	
+}
+ul li a {
+	 color: #fff;
+	 text-decoration:none;
+	 text-transform: uppercase;
+	 font-size: 14px;
+}
+nav {
+	float:right;
+	margin-top:50px;
+	
+}
+body{
+    height: 600px;
+        font-family: Arial, sans-serif;
+        padding:0;
+        margin:0;
+        color:#222222;
+        
+}
+.menu {
+	padding:0;
+	margin:0;
+	display:block;
+}
+header{
+    height: 350px;
+    background: url(../img/f11.jpg) no-repeat center top / cover;
+}
